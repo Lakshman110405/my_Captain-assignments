@@ -1,3 +1,3 @@
 n=input('Enter the filename with dot: ')
 f=n.split('.')
-print('The extension of file name is:',f[1])
+print('The extension of file name is:',f.pop())
