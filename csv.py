@@ -20,5 +20,6 @@ if __name__=='__main__':
                 f=int(input('enter 1 to continue,0 to stop:'))
             elif c=='no':
                 print('reenter the values')
+                f=1
                 
         
